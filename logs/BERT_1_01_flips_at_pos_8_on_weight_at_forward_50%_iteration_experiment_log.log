@@ -1,0 +1,28 @@
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: Logger initialised (console levels: INFO, WARNING, ERROR)
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: component = weight
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: running experiment with params =>
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: bit_position = 8
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: flip_iteration_pct = 50
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: flip_time = forward
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: flip_direction = 01
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: flip_bit_count = 1
+2025-06-09 15:01:37 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: sst2
+2025-06-09 15:18:51 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 1/10 | loss 0.272 | metric val 92.6 | metric test 91.4
+2025-06-09 15:36:04 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 2/10 | loss 0.139 | metric val 96.0 | metric test 91.7
+2025-06-09 15:53:15 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 3/10 | loss 0.085 | metric val 95.6 | metric test 91.9
+2025-06-09 16:10:29 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 4/10 | loss 0.055 | metric val 95.9 | metric test 92.3
+2025-06-09 16:27:34 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: *****************************Flipping bits **************************************
+2025-06-09 16:27:34 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: successfully flipped 0 bits
+2025-06-09 16:27:39 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] flipped :: immediate | metric val 95.7
+2025-06-09 16:27:43 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] flipped at immediate | metric test 91.4
+2025-06-09 16:27:43 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: flipping function end
+2025-06-09 16:27:52 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 5/10 | loss 0.036 | metric val 95.7 | metric test 91.5
+2025-06-09 16:27:54 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/BERT_sst2_fft_flipped_1_01_flips_at_pos_8_on_weight_at_forward_50%_progress.bin after epoch 5
+2025-06-09 16:45:09 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 6/10 | loss 0.024 | metric val 96.1 | metric test 92.0
+2025-06-09 17:02:18 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 7/10 | loss 0.016 | metric val 95.9 | metric test 91.4
+2025-06-09 17:19:27 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 8/10 | loss 0.010 | metric val 96.1 | metric test 91.5
+2025-06-09 17:36:36 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 9/10 | loss 0.007 | metric val 96.4 | metric test 91.9
+2025-06-09 17:53:44 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] epoch 10/10 | loss 0.004 | metric val 96.3 | metric test 91.7
+2025-06-09 17:53:56 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/BERT_sst2_fft_flipped_1_01_flips_at_pos_8_on_weight_at_forward_50%_progress.bin after epoch 10
+2025-06-09 17:53:56 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: [Model=BERT][TASK=sst2] valid metric val: 95.9 | metric test 92.3
+2025-06-09 17:53:56 | INFO     | BERT_1_01_flips_at_pos_8_on_weight_at_forward_50%_iteration_experiment_log: mnli

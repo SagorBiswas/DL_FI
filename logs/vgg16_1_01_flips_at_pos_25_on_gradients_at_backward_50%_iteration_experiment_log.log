@@ -1,0 +1,17 @@
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: Logger initialised (console levels: INFO, WARNING, ERROR)
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: component = gradients
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: running experiment with params =>
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: bit_position = 25
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: flip_iteration_pct = 50
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: flip_time = backward
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: flip_direction = 01
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: flip_bit_count = 1
+2025-06-09 13:47:09 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: *************************** Dataset : ['gtsrb'] *****************************
+2025-06-09 13:50:15 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 1   | Train loss: 0.3796  acc: 89.20% | Val loss: 0.0383  acc: 97.56%
+2025-06-09 13:53:19 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 2   | Train loss: 0.0642  acc: 98.21% | Val loss: 0.0480  acc: 97.94%
+2025-06-09 13:56:24 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 3   | Train loss: 0.0617  acc: 98.28% | Val loss: 0.0243  acc: 97.97%
+2025-06-09 13:59:28 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 4   | Train loss: 0.0641  acc: 98.31% | Val loss: 0.1343  acc: 94.93%
+2025-06-09 14:02:32 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 5   | Train loss: 0.0633  acc: 98.18% | Val loss: 0.0777  acc: 96.55%
+2025-06-09 14:02:48 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_gtsrb_fft_flipped_1%_base_run_at_50%_progress.pth after epoch 5
+2025-06-09 14:03:18 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-09 14:03:18 | INFO     | vgg16_1_01_flips_at_pos_25_on_gradients_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb]  | Test loss: 0.1473 Test acc: 95.84%
