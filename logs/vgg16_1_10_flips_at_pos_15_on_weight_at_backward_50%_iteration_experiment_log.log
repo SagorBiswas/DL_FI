@@ -1,0 +1,17 @@
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: Logger initialised (console levels: INFO, WARNING, ERROR)
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: component = weight
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: running experiment with params =>
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: bit_position = 15
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: flip_iteration_pct = 50
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: flip_time = backward
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: flip_direction = 10
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: flip_bit_count = 1
+2025-06-09 23:28:40 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: *************************** Dataset : ['gtsrb'] *****************************
+2025-06-09 23:31:46 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 1   | Train loss: 0.3778  acc: 89.25% | Val loss: 0.0368  acc: 97.45%
+2025-06-09 23:34:51 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 2   | Train loss: 0.0697  acc: 98.04% | Val loss: 0.0521  acc: 97.48%
+2025-06-09 23:37:55 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 3   | Train loss: 0.0624  acc: 98.17% | Val loss: 0.0438  acc: 97.64%
+2025-06-09 23:40:59 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 4   | Train loss: 0.0556  acc: 98.42% | Val loss: 0.1175  acc: 95.53%
+2025-06-09 23:44:04 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb ]  Epoch 5   | Train loss: 0.0597  acc: 98.35% | Val loss: 0.0327  acc: 97.64%
+2025-06-09 23:44:19 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_gtsrb_fft_flipped_1%_base_run_at_50%_progress.pth after epoch 5
+2025-06-09 23:44:49 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-09 23:44:49 | INFO     | vgg16_1_10_flips_at_pos_15_on_weight_at_backward_50%_iteration_experiment_log: [vgg16 - gtsrb]  | Test loss: 0.1132 Test acc: 96.81%
