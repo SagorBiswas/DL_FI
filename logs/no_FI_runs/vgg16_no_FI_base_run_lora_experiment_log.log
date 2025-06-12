@@ -1,0 +1,122 @@
+2025-06-12 05:05:00 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: Logger initialised (console levels: INFO, WARNING, ERROR)
+2025-06-12 05:05:00 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: *************************** Dataset : ['cifar10', 'gtsrb', 'svhn'] *****************************
+2025-06-12 05:13:11 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 1   | Train loss: 0.4501  acc: 84.79% | Val loss: 0.3417  acc: 87.96%
+2025-06-12 05:20:03 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 2   | Train loss: 0.2007  acc: 93.39% | Val loss: 0.3212  acc: 88.56%
+2025-06-12 05:26:54 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 3   | Train loss: 0.1170  acc: 96.25% | Val loss: 0.3607  acc: 88.30%
+2025-06-12 05:33:46 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 4   | Train loss: 0.0760  acc: 97.69% | Val loss: 0.3752  acc: 88.44%
+2025-06-12 05:40:37 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 5   | Train loss: 0.0582  acc: 98.18% | Val loss: 0.3998  acc: 88.12%
+2025-06-12 05:40:37 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_cifar10_lora_flipped_no_FI_lora.bin after epoch 5
+2025-06-12 05:47:29 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 6   | Train loss: 0.0504  acc: 98.53% | Val loss: 0.4141  acc: 88.34%
+2025-06-12 05:54:20 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 7   | Train loss: 0.0484  acc: 98.59% | Val loss: 0.4620  acc: 87.64%
+2025-06-12 06:01:12 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 8   | Train loss: 0.0449  acc: 98.64% | Val loss: 0.4581  acc: 88.20%
+2025-06-12 06:08:03 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 9   | Train loss: 0.0480  acc: 98.53% | Val loss: 0.4704  acc: 88.14%
+2025-06-12 06:14:54 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 10  | Train loss: 0.0471  acc: 98.58% | Val loss: 0.4734  acc: 87.70%
+2025-06-12 06:14:55 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_cifar10_lora_flipped_no_FI_lora.bin after epoch 10
+2025-06-12 06:21:46 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 11  | Train loss: 0.0449  acc: 98.57% | Val loss: 0.4935  acc: 87.98%
+2025-06-12 06:28:38 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 12  | Train loss: 0.0430  acc: 98.69% | Val loss: 0.4910  acc: 87.28%
+2025-06-12 06:35:29 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 13  | Train loss: 0.0399  acc: 98.73% | Val loss: 0.4918  acc: 87.90%
+2025-06-12 06:42:21 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 14  | Train loss: 0.0398  acc: 98.71% | Val loss: 0.5247  acc: 86.92%
+2025-06-12 06:49:12 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 15  | Train loss: 0.0394  acc: 98.72% | Val loss: 0.5370  acc: 87.34%
+2025-06-12 06:49:13 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_cifar10_lora_flipped_no_FI_lora.bin after epoch 15
+2025-06-12 06:56:05 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 16  | Train loss: 0.0439  acc: 98.64% | Val loss: 0.4910  acc: 87.68%
+2025-06-12 07:02:56 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 17  | Train loss: 0.0412  acc: 98.76% | Val loss: 0.4884  acc: 87.70%
+2025-06-12 07:09:48 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 18  | Train loss: 0.0401  acc: 98.79% | Val loss: 0.4818  acc: 87.60%
+2025-06-12 07:16:39 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 19  | Train loss: 0.0362  acc: 98.90% | Val loss: 0.5393  acc: 88.06%
+2025-06-12 07:23:31 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 20  | Train loss: 0.0407  acc: 98.76% | Val loss: 0.4886  acc: 88.42%
+2025-06-12 07:23:31 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_cifar10_lora_flipped_no_FI_lora.bin after epoch 20
+2025-06-12 07:30:23 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 21  | Train loss: 0.0414  acc: 98.68% | Val loss: 0.5430  acc: 86.72%
+2025-06-12 07:37:14 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 22  | Train loss: 0.0448  acc: 98.56% | Val loss: 0.4844  acc: 87.80%
+2025-06-12 07:44:06 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 23  | Train loss: 0.0496  acc: 98.40% | Val loss: 0.4992  acc: 87.28%
+2025-06-12 07:50:57 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 24  | Train loss: 0.0359  acc: 98.85% | Val loss: 0.5376  acc: 86.48%
+2025-06-12 07:57:49 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 25  | Train loss: 0.0336  acc: 98.98% | Val loss: 0.4790  acc: 87.62%
+2025-06-12 07:57:49 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_cifar10_lora_flipped_no_FI_lora.bin after epoch 25
+2025-06-12 08:04:41 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 26  | Train loss: 0.0376  acc: 98.84% | Val loss: 0.5102  acc: 87.26%
+2025-06-12 08:11:32 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 27  | Train loss: 0.0412  acc: 98.73% | Val loss: 0.4932  acc: 87.44%
+2025-06-12 08:18:24 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 28  | Train loss: 0.0372  acc: 98.81% | Val loss: 0.5149  acc: 88.12%
+2025-06-12 08:25:15 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 29  | Train loss: 0.0395  acc: 98.81% | Val loss: 0.4808  acc: 87.78%
+2025-06-12 08:32:07 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10 ]  Epoch 30  | Train loss: 0.0384  acc: 98.79% | Val loss: 0.4934  acc: 88.22%
+2025-06-12 08:32:08 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_cifar10_lora_flipped_no_FI_lora.bin after epoch 30
+2025-06-12 08:32:43 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-12 08:32:43 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - cifar10]  | Test loss: 0.5359 Test acc: 87.70%
+2025-06-12 08:37:34 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 1   | Train loss: 0.3251  acc: 91.30% | Val loss: 0.0268  acc: 97.75%
+2025-06-12 08:41:06 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 2   | Train loss: 0.0112  acc: 99.58% | Val loss: 0.0301  acc: 97.48%
+2025-06-12 08:44:38 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 3   | Train loss: 0.0063  acc: 99.70% | Val loss: 0.0185  acc: 98.05%
+2025-06-12 08:48:11 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 4   | Train loss: 0.0077  acc: 99.67% | Val loss: 0.0141  acc: 98.05%
+2025-06-12 08:51:43 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 5   | Train loss: 0.0018  acc: 99.83% | Val loss: 0.0240  acc: 97.75%
+2025-06-12 08:51:43 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_gtsrb_lora_flipped_no_FI_lora.bin after epoch 5
+2025-06-12 08:55:16 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 6   | Train loss: 0.0129  acc: 99.59% | Val loss: 0.0134  acc: 97.97%
+2025-06-12 08:58:48 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 7   | Train loss: 0.0030  acc: 99.80% | Val loss: 0.0230  acc: 97.79%
+2025-06-12 09:02:20 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 8   | Train loss: 0.0054  acc: 99.72% | Val loss: 0.0207  acc: 97.82%
+2025-06-12 09:05:53 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 9   | Train loss: 0.0055  acc: 99.72% | Val loss: 0.0343  acc: 97.64%
+2025-06-12 09:09:25 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 10  | Train loss: 0.0100  acc: 99.58% | Val loss: 0.0134  acc: 98.24%
+2025-06-12 09:09:26 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_gtsrb_lora_flipped_no_FI_lora.bin after epoch 10
+2025-06-12 09:12:58 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 11  | Train loss: 0.0057  acc: 99.68% | Val loss: 0.0249  acc: 98.01%
+2025-06-12 09:16:30 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 12  | Train loss: 0.0019  acc: 99.82% | Val loss: 0.0162  acc: 98.05%
+2025-06-12 09:20:03 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 13  | Train loss: 0.0096  acc: 99.57% | Val loss: 0.0119  acc: 98.12%
+2025-06-12 09:23:35 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 14  | Train loss: 0.0081  acc: 99.65% | Val loss: 0.0164  acc: 98.05%
+2025-06-12 09:27:07 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 15  | Train loss: 0.0021  acc: 99.82% | Val loss: 0.0109  acc: 98.20%
+2025-06-12 09:27:08 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_gtsrb_lora_flipped_no_FI_lora.bin after epoch 15
+2025-06-12 09:30:41 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 16  | Train loss: 0.0014  acc: 99.81% | Val loss: 0.0435  acc: 97.33%
+2025-06-12 09:34:13 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 17  | Train loss: 0.0180  acc: 99.27% | Val loss: 0.0137  acc: 98.16%
+2025-06-12 09:37:45 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 18  | Train loss: 0.0021  acc: 99.79% | Val loss: 0.0067  acc: 98.31%
+2025-06-12 09:41:17 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 19  | Train loss: 0.0009  acc: 99.83% | Val loss: 0.0084  acc: 98.27%
+2025-06-12 09:44:50 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 20  | Train loss: 0.0057  acc: 99.71% | Val loss: 0.0144  acc: 98.09%
+2025-06-12 09:44:51 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_gtsrb_lora_flipped_no_FI_lora.bin after epoch 20
+2025-06-12 09:48:23 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 21  | Train loss: 0.0100  acc: 99.54% | Val loss: 0.0210  acc: 97.82%
+2025-06-12 09:51:55 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 22  | Train loss: 0.0017  acc: 99.82% | Val loss: 0.0092  acc: 98.27%
+2025-06-12 09:55:28 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 23  | Train loss: 0.0028  acc: 99.80% | Val loss: 0.0101  acc: 98.20%
+2025-06-12 09:59:00 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 24  | Train loss: 0.0116  acc: 99.55% | Val loss: 0.0484  acc: 97.26%
+2025-06-12 10:02:32 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb ]  Epoch 25  | Train loss: 0.0036  acc: 99.77% | Val loss: 0.0170  acc: 97.82%
+2025-06-12 10:02:33 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_gtsrb_lora_flipped_no_FI_lora.bin after epoch 25
+2025-06-12 10:03:15 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-12 10:03:15 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - gtsrb]  | Test loss: 0.1779 Test acc: 95.10%
+2025-06-12 10:15:21 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 1   | Train loss: 0.4075  acc: 87.38% | Val loss: 0.3183  acc: 90.14%
+2025-06-12 10:25:53 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 2   | Train loss: 0.2592  acc: 92.31% | Val loss: 0.3027  acc: 90.29%
+2025-06-12 10:36:25 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 3   | Train loss: 0.2267  acc: 93.14% | Val loss: 0.2979  acc: 90.65%
+2025-06-12 10:46:57 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 4   | Train loss: 0.2104  acc: 93.69% | Val loss: 0.3014  acc: 90.25%
+2025-06-12 10:57:29 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 5   | Train loss: 0.1972  acc: 94.06% | Val loss: 0.2824  acc: 91.36%
+2025-06-12 10:57:29 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 5
+2025-06-12 11:08:01 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 6   | Train loss: 0.1888  acc: 94.21% | Val loss: 0.2998  acc: 90.55%
+2025-06-12 11:18:33 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 7   | Train loss: 0.1831  acc: 94.43% | Val loss: 0.2925  acc: 90.94%
+2025-06-12 11:29:05 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 8   | Train loss: 0.1733  acc: 94.75% | Val loss: 0.2984  acc: 90.92%
+2025-06-12 11:39:37 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 9   | Train loss: 0.1670  acc: 94.83% | Val loss: 0.3212  acc: 90.94%
+2025-06-12 11:50:10 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 10  | Train loss: 0.1615  acc: 95.07% | Val loss: 0.2907  acc: 91.10%
+2025-06-12 11:50:10 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 10
+2025-06-12 12:00:42 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 11  | Train loss: 0.1547  acc: 95.19% | Val loss: 0.3032  acc: 90.91%
+2025-06-12 12:11:15 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 12  | Train loss: 0.1528  acc: 95.23% | Val loss: 0.2868  acc: 91.40%
+2025-06-12 12:21:47 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 13  | Train loss: 0.1474  acc: 95.44% | Val loss: 0.3044  acc: 91.06%
+2025-06-12 12:32:19 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 14  | Train loss: 0.1445  acc: 95.48% | Val loss: 0.3381  acc: 89.92%
+2025-06-12 12:42:51 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 15  | Train loss: 0.1419  acc: 95.48% | Val loss: 0.3337  acc: 90.61%
+2025-06-12 12:42:52 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 15
+2025-06-12 12:53:24 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 16  | Train loss: 0.1395  acc: 95.61% | Val loss: 0.3017  acc: 91.15%
+2025-06-12 13:03:56 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 17  | Train loss: 0.1352  acc: 95.82% | Val loss: 0.3009  acc: 90.95%
+2025-06-12 13:14:28 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 18  | Train loss: 0.1310  acc: 95.77% | Val loss: 0.3100  acc: 90.88%
+2025-06-12 13:25:01 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 19  | Train loss: 0.1290  acc: 95.89% | Val loss: 0.3163  acc: 90.62%
+2025-06-12 13:35:33 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 20  | Train loss: 0.1277  acc: 95.98% | Val loss: 0.3128  acc: 90.84%
+2025-06-12 13:35:34 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 20
+2025-06-12 13:46:06 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 21  | Train loss: 0.1226  acc: 96.04% | Val loss: 0.3207  acc: 91.25%
+2025-06-12 13:56:38 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 22  | Train loss: 0.1254  acc: 96.02% | Val loss: 0.3167  acc: 90.70%
+2025-06-12 14:07:10 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 23  | Train loss: 0.1248  acc: 96.09% | Val loss: 0.3266  acc: 90.92%
+2025-06-12 14:17:42 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 24  | Train loss: 0.1205  acc: 96.16% | Val loss: 0.3286  acc: 90.83%
+2025-06-12 14:28:14 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 25  | Train loss: 0.1201  acc: 96.15% | Val loss: 0.3192  acc: 91.14%
+2025-06-12 14:28:15 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 25
+2025-06-12 14:38:47 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 26  | Train loss: 0.1209  acc: 96.13% | Val loss: 0.3254  acc: 90.36%
+2025-06-12 14:49:19 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 27  | Train loss: 0.1172  acc: 96.37% | Val loss: 0.3078  acc: 90.98%
+2025-06-12 14:59:51 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 28  | Train loss: 0.1174  acc: 96.27% | Val loss: 0.3553  acc: 89.91%
+2025-06-12 15:10:23 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 29  | Train loss: 0.1144  acc: 96.36% | Val loss: 0.3352  acc: 91.00%
+2025-06-12 15:20:55 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 30  | Train loss: 0.1163  acc: 96.17% | Val loss: 0.3339  acc: 90.28%
+2025-06-12 15:20:56 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 30
+2025-06-12 15:31:28 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 31  | Train loss: 0.1137  acc: 96.31% | Val loss: 0.3219  acc: 91.03%
+2025-06-12 15:42:00 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 32  | Train loss: 0.1154  acc: 96.34% | Val loss: 0.3383  acc: 90.24%
+2025-06-12 15:52:33 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 33  | Train loss: 0.1114  acc: 96.42% | Val loss: 0.3389  acc: 90.44%
+2025-06-12 16:03:05 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 34  | Train loss: 0.1124  acc: 96.45% | Val loss: 0.3350  acc: 90.83%
+2025-06-12 16:13:37 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 35  | Train loss: 0.1146  acc: 96.37% | Val loss: 0.3229  acc: 90.69%
+2025-06-12 16:13:37 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 35
+2025-06-12 16:24:10 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 36  | Train loss: 0.1117  acc: 96.38% | Val loss: 0.3239  acc: 90.84%
+2025-06-12 16:34:42 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 37  | Train loss: 0.1112  acc: 96.37% | Val loss: 0.3240  acc: 90.94%
+2025-06-12 16:45:14 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 38  | Train loss: 0.1098  acc: 96.48% | Val loss: 0.3275  acc: 90.38%
+2025-06-12 16:55:46 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 39  | Train loss: 0.1093  acc: 96.53% | Val loss: 0.3163  acc: 91.25%
+2025-06-12 17:06:18 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn ]  Epoch 40  | Train loss: 0.1107  acc: 96.43% | Val loss: 0.3411  acc: 90.91%
+2025-06-12 17:06:19 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vgg16_svhn_lora_flipped_no_FI_lora.bin after epoch 40
+2025-06-12 17:07:51 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-12 17:07:51 | INFO     | vgg16_no_FI_base_run_lora_experiment_log: [vgg16 - svhn]  | Test loss: 0.3089 Test acc: 91.62%
