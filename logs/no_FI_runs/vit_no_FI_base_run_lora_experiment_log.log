@@ -1,0 +1,166 @@
+2025-06-13 16:51:02 | INFO     | vit_no_FI_base_run_lora_experiment_log: Logger initialised (console levels: INFO, WARNING, ERROR)
+2025-06-13 16:51:02 | INFO     | vit_no_FI_base_run_lora_experiment_log: *************************** Dataset : ['flower'] *****************************
+2025-06-13 16:52:30 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 1   | Train loss: 4.5966  acc: 1.94% | Val loss: 4.0101  acc: 2.35%
+2025-06-13 16:53:56 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 2   | Train loss: 4.3231  acc: 7.79% | Val loss: 3.8290  acc: 5.78%
+2025-06-13 16:55:23 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 3   | Train loss: 4.0503  acc: 18.18% | Val loss: 3.6438  acc: 12.06%
+2025-06-13 16:56:50 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 4   | Train loss: 3.7705  acc: 31.71% | Val loss: 3.4502  acc: 20.39%
+2025-06-13 16:58:17 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 5   | Train loss: 3.4799  acc: 44.85% | Val loss: 3.2427  acc: 30.10%
+2025-06-13 16:58:18 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 5
+2025-06-13 16:59:45 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 6   | Train loss: 3.1805  acc: 56.19% | Val loss: 3.0292  acc: 38.63%
+2025-06-13 17:01:12 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 7   | Train loss: 2.8831  acc: 64.43% | Val loss: 2.8150  acc: 44.41%
+2025-06-13 17:02:39 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 8   | Train loss: 2.5950  acc: 70.60% | Val loss: 2.6033  acc: 50.59%
+2025-06-13 17:04:06 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 9   | Train loss: 2.3236  acc: 76.60% | Val loss: 2.3944  acc: 56.67%
+2025-06-13 17:05:33 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 10  | Train loss: 2.0743  acc: 81.28% | Val loss: 2.1937  acc: 61.76%
+2025-06-13 17:05:36 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 10
+2025-06-13 17:07:03 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 11  | Train loss: 1.8474  acc: 84.99% | Val loss: 2.0027  acc: 66.96%
+2025-06-13 17:08:30 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 12  | Train loss: 1.6432  acc: 87.98% | Val loss: 1.8227  acc: 70.39%
+2025-06-13 17:09:58 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 13  | Train loss: 1.4600  acc: 89.90% | Val loss: 1.6542  acc: 72.94%
+2025-06-13 17:11:25 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 14  | Train loss: 1.2978  acc: 91.51% | Val loss: 1.5016  acc: 75.00%
+2025-06-13 17:12:52 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 15  | Train loss: 1.1549  acc: 92.75% | Val loss: 1.3615  acc: 76.76%
+2025-06-13 17:12:55 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 15
+2025-06-13 17:14:22 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 16  | Train loss: 1.0290  acc: 93.92% | Val loss: 1.2334  acc: 78.33%
+2025-06-13 17:15:49 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 17  | Train loss: 0.9182  acc: 94.93% | Val loss: 1.1163  acc: 79.80%
+2025-06-13 17:17:16 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 18  | Train loss: 0.8208  acc: 95.66% | Val loss: 1.0131  acc: 80.88%
+2025-06-13 17:18:43 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 19  | Train loss: 0.7363  acc: 96.23% | Val loss: 0.9192  acc: 81.67%
+2025-06-13 17:20:10 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 20  | Train loss: 0.6617  acc: 96.58% | Val loss: 0.8345  acc: 82.75%
+2025-06-13 17:20:14 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 20
+2025-06-13 17:21:41 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 21  | Train loss: 0.5953  acc: 97.06% | Val loss: 0.7607  acc: 83.04%
+2025-06-13 17:23:08 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 22  | Train loss: 0.5386  acc: 97.38% | Val loss: 0.6928  acc: 83.82%
+2025-06-13 17:24:35 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 23  | Train loss: 0.4889  acc: 97.79% | Val loss: 0.6337  acc: 84.02%
+2025-06-13 17:26:02 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 24  | Train loss: 0.4447  acc: 98.05% | Val loss: 0.5811  acc: 84.22%
+2025-06-13 17:27:29 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 25  | Train loss: 0.4056  acc: 98.28% | Val loss: 0.5334  acc: 84.22%
+2025-06-13 17:27:32 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 25
+2025-06-13 17:28:59 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 26  | Train loss: 0.3710  acc: 98.46% | Val loss: 0.4911  acc: 84.61%
+2025-06-13 17:30:27 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 27  | Train loss: 0.3408  acc: 98.63% | Val loss: 0.4526  acc: 84.71%
+2025-06-13 17:31:54 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 28  | Train loss: 0.3134  acc: 98.78% | Val loss: 0.4196  acc: 84.80%
+2025-06-13 17:33:21 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 29  | Train loss: 0.2891  acc: 98.94% | Val loss: 0.3887  acc: 85.00%
+2025-06-13 17:34:48 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 30  | Train loss: 0.2677  acc: 99.06% | Val loss: 0.3619  acc: 85.10%
+2025-06-13 17:34:51 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 30
+2025-06-13 17:36:18 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 31  | Train loss: 0.2480  acc: 99.09% | Val loss: 0.3379  acc: 85.39%
+2025-06-13 17:37:45 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 32  | Train loss: 0.2305  acc: 99.24% | Val loss: 0.3151  acc: 85.78%
+2025-06-13 17:39:12 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 33  | Train loss: 0.2150  acc: 99.28% | Val loss: 0.2958  acc: 85.98%
+2025-06-13 17:40:40 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 34  | Train loss: 0.2007  acc: 99.33% | Val loss: 0.2782  acc: 85.98%
+2025-06-13 17:42:07 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 35  | Train loss: 0.1877  acc: 99.37% | Val loss: 0.2617  acc: 86.08%
+2025-06-13 17:42:10 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 35
+2025-06-13 17:43:37 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 36  | Train loss: 0.1759  acc: 99.43% | Val loss: 0.2467  acc: 86.18%
+2025-06-13 17:45:04 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 37  | Train loss: 0.1653  acc: 99.45% | Val loss: 0.2336  acc: 86.18%
+2025-06-13 17:46:31 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 38  | Train loss: 0.1554  acc: 99.46% | Val loss: 0.2212  acc: 86.47%
+2025-06-13 17:47:59 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 39  | Train loss: 0.1465  acc: 99.50% | Val loss: 0.2100  acc: 86.57%
+2025-06-13 17:49:26 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 40  | Train loss: 0.1382  acc: 99.53% | Val loss: 0.1995  acc: 86.57%
+2025-06-13 17:49:29 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 40
+2025-06-13 17:50:56 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 41  | Train loss: 0.1307  acc: 99.53% | Val loss: 0.1902  acc: 86.67%
+2025-06-13 17:52:23 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 42  | Train loss: 0.1236  acc: 99.56% | Val loss: 0.1816  acc: 86.76%
+2025-06-13 17:53:50 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 43  | Train loss: 0.1171  acc: 99.58% | Val loss: 0.1740  acc: 86.86%
+2025-06-13 17:55:18 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 44  | Train loss: 0.1110  acc: 99.61% | Val loss: 0.1663  acc: 86.86%
+2025-06-13 17:56:45 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 45  | Train loss: 0.1056  acc: 99.61% | Val loss: 0.1592  acc: 86.86%
+2025-06-13 17:56:48 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 45
+2025-06-13 17:58:15 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 46  | Train loss: 0.1001  acc: 99.63% | Val loss: 0.1530  acc: 86.96%
+2025-06-13 17:59:42 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 47  | Train loss: 0.0954  acc: 99.63% | Val loss: 0.1467  acc: 86.96%
+2025-06-13 18:01:09 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 48  | Train loss: 0.0911  acc: 99.64% | Val loss: 0.1411  acc: 86.96%
+2025-06-13 18:02:36 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 49  | Train loss: 0.0870  acc: 99.67% | Val loss: 0.1363  acc: 86.96%
+2025-06-13 18:04:04 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower ]  Epoch 50  | Train loss: 0.0830  acc: 99.66% | Val loss: 0.1310  acc: 87.16%
+2025-06-13 18:04:07 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_flower_lora_flipped_no_FI_lora.bin after epoch 50
+2025-06-13 18:04:13 | INFO     | vit_no_FI_base_run_lora_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-13 18:04:13 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - flower]  | Test loss: 0.1228 Test acc: 87.16%
+2025-06-13 18:13:11 | INFO     | vit_no_FI_base_run_lora_experiment_log: Logger initialised (console levels: INFO, WARNING, ERROR)
+2025-06-13 18:13:11 | INFO     | vit_no_FI_base_run_lora_experiment_log: *************************** Dataset : ['cifar100', 'food'] *****************************
+2025-06-13 18:24:22 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 1   | Train loss: 4.2317  acc: 12.18% | Val loss: 3.6851  acc: 32.56%
+2025-06-13 18:35:23 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 2   | Train loss: 3.0550  acc: 52.27% | Val loss: 2.4166  acc: 66.74%
+2025-06-13 18:46:24 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 3   | Train loss: 1.8928  acc: 73.83% | Val loss: 1.4652  acc: 77.80%
+2025-06-13 18:57:30 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 4   | Train loss: 1.1790  acc: 81.81% | Val loss: 0.9749  acc: 82.80%
+2025-06-13 19:08:31 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 5   | Train loss: 0.8313  acc: 84.93% | Val loss: 0.7380  acc: 84.90%
+2025-06-13 19:08:32 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 5
+2025-06-13 19:19:37 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 6   | Train loss: 0.6529  acc: 86.45% | Val loss: 0.6098  acc: 86.32%
+2025-06-13 19:30:41 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 7   | Train loss: 0.5497  acc: 87.47% | Val loss: 0.5321  acc: 87.20%
+2025-06-13 19:41:43 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 8   | Train loss: 0.4833  acc: 88.26% | Val loss: 0.4801  acc: 87.84%
+2025-06-13 19:52:44 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 9   | Train loss: 0.4363  acc: 88.91% | Val loss: 0.4452  acc: 88.22%
+2025-06-13 20:03:49 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 10  | Train loss: 0.4021  acc: 89.44% | Val loss: 0.4185  acc: 88.42%
+2025-06-13 20:03:52 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 10
+2025-06-13 20:14:56 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 11  | Train loss: 0.3759  acc: 89.90% | Val loss: 0.3990  acc: 88.74%
+2025-06-13 20:25:59 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 12  | Train loss: 0.3539  acc: 90.30% | Val loss: 0.3843  acc: 88.84%
+2025-06-13 20:37:00 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 13  | Train loss: 0.3361  acc: 90.61% | Val loss: 0.3711  acc: 89.06%
+2025-06-13 20:48:01 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 14  | Train loss: 0.3205  acc: 90.93% | Val loss: 0.3624  acc: 89.40%
+2025-06-13 20:59:00 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 15  | Train loss: 0.3067  acc: 91.27% | Val loss: 0.3553  acc: 89.46%
+2025-06-13 20:59:03 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 15
+2025-06-13 21:10:02 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 16  | Train loss: 0.2949  acc: 91.53% | Val loss: 0.3498  acc: 89.40%
+2025-06-13 21:21:03 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 17  | Train loss: 0.2843  acc: 91.73% | Val loss: 0.3423  acc: 89.50%
+2025-06-13 21:32:04 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 18  | Train loss: 0.2745  acc: 91.94% | Val loss: 0.3385  acc: 89.44%
+2025-06-13 21:43:06 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 19  | Train loss: 0.2658  acc: 92.21% | Val loss: 0.3348  acc: 89.74%
+2025-06-13 21:54:07 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 20  | Train loss: 0.2578  acc: 92.32% | Val loss: 0.3305  acc: 89.64%
+2025-06-13 21:54:11 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 20
+2025-06-13 22:05:11 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 21  | Train loss: 0.2498  acc: 92.56% | Val loss: 0.3289  acc: 89.84%
+2025-06-13 22:16:09 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 22  | Train loss: 0.2430  acc: 92.74% | Val loss: 0.3259  acc: 90.06%
+2025-06-13 22:27:08 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 23  | Train loss: 0.2362  acc: 93.00% | Val loss: 0.3262  acc: 89.94%
+2025-06-13 22:38:06 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 24  | Train loss: 0.2297  acc: 93.21% | Val loss: 0.3223  acc: 89.86%
+2025-06-13 22:49:05 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 25  | Train loss: 0.2236  acc: 93.35% | Val loss: 0.3234  acc: 89.86%
+2025-06-13 22:49:08 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 25
+2025-06-13 23:00:07 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 26  | Train loss: 0.2180  acc: 93.53% | Val loss: 0.3220  acc: 90.02%
+2025-06-13 23:11:06 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 27  | Train loss: 0.2120  acc: 93.69% | Val loss: 0.3192  acc: 90.08%
+2025-06-13 23:22:07 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 28  | Train loss: 0.2069  acc: 93.81% | Val loss: 0.3188  acc: 90.16%
+2025-06-13 23:33:09 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 29  | Train loss: 0.2017  acc: 94.03% | Val loss: 0.3184  acc: 90.10%
+2025-06-13 23:44:10 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 30  | Train loss: 0.1970  acc: 94.16% | Val loss: 0.3190  acc: 90.06%
+2025-06-13 23:44:14 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 30
+2025-06-13 23:55:15 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 31  | Train loss: 0.1920  acc: 94.31% | Val loss: 0.3199  acc: 90.14%
+2025-06-14 00:06:17 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 32  | Train loss: 0.1877  acc: 94.41% | Val loss: 0.3178  acc: 90.18%
+2025-06-14 00:17:17 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 33  | Train loss: 0.1833  acc: 94.61% | Val loss: 0.3161  acc: 90.24%
+2025-06-14 00:28:17 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 34  | Train loss: 0.1788  acc: 94.70% | Val loss: 0.3166  acc: 90.16%
+2025-06-14 00:39:19 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 35  | Train loss: 0.1741  acc: 94.91% | Val loss: 0.3185  acc: 90.14%
+2025-06-14 00:39:23 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 35
+2025-06-14 00:50:22 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 36  | Train loss: 0.1706  acc: 94.98% | Val loss: 0.3193  acc: 90.06%
+2025-06-14 01:01:24 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 37  | Train loss: 0.1668  acc: 95.16% | Val loss: 0.3190  acc: 90.16%
+2025-06-14 01:12:26 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 38  | Train loss: 0.1629  acc: 95.21% | Val loss: 0.3181  acc: 90.14%
+2025-06-14 01:23:27 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 39  | Train loss: 0.1589  acc: 95.40% | Val loss: 0.3193  acc: 90.18%
+2025-06-14 01:34:30 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 40  | Train loss: 0.1555  acc: 95.46% | Val loss: 0.3197  acc: 90.16%
+2025-06-14 01:34:33 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 40
+2025-06-14 01:45:34 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 41  | Train loss: 0.1521  acc: 95.57% | Val loss: 0.3199  acc: 90.10%
+2025-06-14 01:56:35 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 42  | Train loss: 0.1483  acc: 95.70% | Val loss: 0.3202  acc: 90.08%
+2025-06-14 02:07:34 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 43  | Train loss: 0.1451  acc: 95.75% | Val loss: 0.3220  acc: 90.18%
+2025-06-14 02:18:33 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 44  | Train loss: 0.1422  acc: 95.91% | Val loss: 0.3231  acc: 90.12%
+2025-06-14 02:29:32 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 45  | Train loss: 0.1387  acc: 96.00% | Val loss: 0.3217  acc: 90.26%
+2025-06-14 02:29:35 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 45
+2025-06-14 02:40:34 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 46  | Train loss: 0.1356  acc: 96.06% | Val loss: 0.3233  acc: 90.24%
+2025-06-14 02:51:35 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 47  | Train loss: 0.1325  acc: 96.22% | Val loss: 0.3251  acc: 90.30%
+2025-06-14 03:02:36 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 48  | Train loss: 0.1295  acc: 96.31% | Val loss: 0.3263  acc: 90.14%
+2025-06-14 03:13:36 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 49  | Train loss: 0.1264  acc: 96.39% | Val loss: 0.3269  acc: 90.16%
+2025-06-14 03:24:34 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100 ]  Epoch 50  | Train loss: 0.1237  acc: 96.48% | Val loss: 0.3284  acc: 90.00%
+2025-06-14 03:24:37 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_cifar100_lora_flipped_no_FI_lora.bin after epoch 50
+2025-06-14 03:25:47 | INFO     | vit_no_FI_base_run_lora_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-14 03:25:47 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - cifar100]  | Test loss: 0.3376 Test acc: 90.45%
+2025-06-14 03:45:51 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 1   | Train loss: 3.9285  acc: 22.37% | Val loss: 3.0361  acc: 52.45%
+2025-06-14 04:01:16 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 2   | Train loss: 2.3311  acc: 63.27% | Val loss: 1.7755  acc: 69.36%
+2025-06-14 04:16:42 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 3   | Train loss: 1.4898  acc: 72.52% | Val loss: 1.2811  acc: 73.90%
+2025-06-14 04:32:08 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 4   | Train loss: 1.1516  acc: 75.57% | Val loss: 1.0653  acc: 75.78%
+2025-06-14 04:47:34 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 5   | Train loss: 0.9872  acc: 77.26% | Val loss: 0.9493  acc: 77.57%
+2025-06-14 04:47:34 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_food_lora_flipped_no_FI_lora.bin after epoch 5
+2025-06-14 05:03:00 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 6   | Train loss: 0.8904  acc: 78.45% | Val loss: 0.8786  acc: 78.42%
+2025-06-14 05:18:26 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 7   | Train loss: 0.8262  acc: 79.52% | Val loss: 0.8294  acc: 79.22%
+2025-06-14 05:33:51 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 8   | Train loss: 0.7791  acc: 80.32% | Val loss: 0.7960  acc: 79.79%
+2025-06-14 05:49:17 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 9   | Train loss: 0.7423  acc: 80.90% | Val loss: 0.7677  acc: 80.33%
+2025-06-14 06:04:43 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 10  | Train loss: 0.7130  acc: 81.51% | Val loss: 0.7478  acc: 80.50%
+2025-06-14 06:04:47 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_food_lora_flipped_no_FI_lora.bin after epoch 10
+2025-06-14 06:20:12 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 11  | Train loss: 0.6880  acc: 82.03% | Val loss: 0.7311  acc: 80.94%
+2025-06-14 06:35:38 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 12  | Train loss: 0.6668  acc: 82.42% | Val loss: 0.7159  acc: 81.31%
+2025-06-14 06:51:04 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 13  | Train loss: 0.6481  acc: 82.83% | Val loss: 0.7032  acc: 81.33%
+2025-06-14 07:06:30 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 14  | Train loss: 0.6313  acc: 83.18% | Val loss: 0.6926  acc: 81.49%
+2025-06-14 07:21:55 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 15  | Train loss: 0.6163  acc: 83.55% | Val loss: 0.6834  acc: 81.61%
+2025-06-14 07:21:59 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_food_lora_flipped_no_FI_lora.bin after epoch 15
+2025-06-14 07:37:24 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 16  | Train loss: 0.6028  acc: 83.82% | Val loss: 0.6771  acc: 81.85%
+2025-06-14 07:52:49 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 17  | Train loss: 0.5897  acc: 84.18% | Val loss: 0.6701  acc: 81.94%
+2025-06-14 08:08:15 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 18  | Train loss: 0.5782  acc: 84.37% | Val loss: 0.6632  acc: 82.28%
+2025-06-14 08:23:40 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 19  | Train loss: 0.5670  acc: 84.72% | Val loss: 0.6587  acc: 82.30%
+2025-06-14 08:39:06 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 20  | Train loss: 0.5564  acc: 84.93% | Val loss: 0.6526  acc: 82.60%
+2025-06-14 08:39:09 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_food_lora_flipped_no_FI_lora.bin after epoch 20
+2025-06-14 08:54:34 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 21  | Train loss: 0.5469  acc: 85.24% | Val loss: 0.6487  acc: 82.63%
+2025-06-14 09:10:00 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 22  | Train loss: 0.5377  acc: 85.43% | Val loss: 0.6450  acc: 82.53%
+2025-06-14 09:25:26 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 23  | Train loss: 0.5288  acc: 85.61% | Val loss: 0.6410  acc: 82.59%
+2025-06-14 09:40:51 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 24  | Train loss: 0.5203  acc: 85.89% | Val loss: 0.6393  acc: 82.84%
+2025-06-14 09:56:17 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 25  | Train loss: 0.5120  acc: 86.07% | Val loss: 0.6352  acc: 82.93%
+2025-06-14 09:56:20 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_food_lora_flipped_no_FI_lora.bin after epoch 25
+2025-06-14 10:11:46 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 26  | Train loss: 0.5039  acc: 86.28% | Val loss: 0.6322  acc: 82.88%
+2025-06-14 10:27:12 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 27  | Train loss: 0.4963  acc: 86.53% | Val loss: 0.6289  acc: 83.12%
+2025-06-14 10:42:37 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 28  | Train loss: 0.4895  acc: 86.69% | Val loss: 0.6287  acc: 83.08%
+2025-06-14 10:58:03 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 29  | Train loss: 0.4820  acc: 86.86% | Val loss: 0.6263  acc: 82.89%
+2025-06-14 11:13:28 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food ]  Epoch 30  | Train loss: 0.4753  acc: 87.10% | Val loss: 0.6234  acc: 83.18%
+2025-06-14 11:13:31 | INFO     | vit_no_FI_base_run_lora_experiment_log: [Checkpoint] saved  → /home/cc/DLFI/checkpoints/vit_food_lora_flipped_no_FI_lora.bin after epoch 30
+2025-06-14 11:16:03 | INFO     | vit_no_FI_base_run_lora_experiment_log: ################################ FInal Test Accuracy ################################
+2025-06-14 11:16:03 | INFO     | vit_no_FI_base_run_lora_experiment_log: [vit - food]  | Test loss: 0.4449 Test acc: 87.22%
